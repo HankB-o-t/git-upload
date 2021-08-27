@@ -11,7 +11,7 @@ Git is an version source control, and isn't from GitHub, Git was developed by Li
 
 - Use `git init` to start a repository ON GIT
 
-- Use `git add remote origin link` changing the `link` word to your git link (For Example: it will be like `https://github.com/HankB-o-t/git-upload.git`)
+- Use `git remote add origin link` changing the `link` word to your git link (For Example: it will be like `https://github.com/HankB-o-t/git-upload.git`)
 
 - Then, do `git add "yourfile"` to upload a single file, but if you want to upload all the files, do `git add .`
 
