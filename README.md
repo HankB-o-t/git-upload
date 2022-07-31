@@ -3,7 +3,7 @@ Useful Guide for uploading projects using git
 
 # IMPORTANT THING:
 
-Git is an version source control, and isn't from GitHub, Git was developed by Linus Torvalds and GitHub is a host for proyjects that can be uploaded with git, so, they aren't the same thing 
+Git is an version source control, and it isn't from GitHub, Git was developed by Linus Torvalds and GitHub is a host for projects that can be uploaded with git, so, they aren't the same thing 
 
 ## First of all, you will need to know you need to have git installed in your pc, if you have it, let's continue
 
